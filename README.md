@@ -1,0 +1,2 @@
+# riddles
+Competitive problem collections
