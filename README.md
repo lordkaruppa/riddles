@@ -9,7 +9,8 @@
   <li>ARRAY & HASHING</li>
   <ol>
     <li>E <a href="LC/NC250/concatenation_of_array.c">concatenation of array</a> :copyright: :snake:</li>
-    <li>E <a href="LC/NC250//contains_duplicate.c">contains duplicate</a> :copyright: :snake:</li>
+    <li>E <a href="LC/NC250/contains_duplicate.c">contains duplicate</a> :copyright: :snake:</li>
+    <li>E <a href="LC/NC250/valid_anagram.c">valid anagram</a> :copyright: :snake:</li>
   </ol>
 
   <li>TWO POINTER</li>
