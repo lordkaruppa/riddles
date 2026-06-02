@@ -16,6 +16,7 @@
   <li>TWO POINTER</li>
   <ol>
     <li>E <a href="LC/NC250/reverse_string.c">reverse a string</a> :copyright: :snake:</li>
+    <li>E <a href="LC/NC250/valid_palindrome.c">valid palindrome</a> :copyright: :snake:</li>
   </ol>
 
   <li>SLIDING WINDOW</li>
