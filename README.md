@@ -18,4 +18,7 @@
   </ol>
 
   <li>SLIDING WINDOW</li>
+  <ol>
+    <li>E <a href="LC/NC250/contains_duplicate_2.py">contains duplicate II</a> :copyright: :snake:</li>
+  </ol>
 </ul>
